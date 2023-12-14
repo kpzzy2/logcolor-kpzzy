@@ -1,6 +1,6 @@
 {
   "name": "logcolor-kpzzy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "just colorful console.log",
   "main": "index.js",
   "scripts": {
