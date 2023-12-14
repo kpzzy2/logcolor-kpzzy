@@ -15,5 +15,4 @@
 ~~6. npm uninstall logcolor-kpzzy~~  
 ~~7. npm i colors~~
 
-
-
+sorry ToT
