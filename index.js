@@ -1,4 +1,4 @@
-class colorFulFormat {
+class logcolor_kpzzy {
     red (text) {
         console.log('\x1b[31m%s\x1b[0m', text)
     }
@@ -24,4 +24,4 @@ class colorFulFormat {
     }
 }
 
-const ColorFulFormat = new colorFulFormat()
+module.exports = logcolor_kpzzy
